@@ -1,0 +1,467 @@
+body {
+    font-family: "Montserrat";
+    background-color: #F5F5F5;
+}
+
+.container-fluid {
+    padding: 2% 4% 0;
+}
+
+.paragrafi .btn1 .nav-item {
+    font-size: 20px;
+}
+
+/* navi  */
+
+.logo {
+    width: 100px;
+    height: 100px;
+
+}
+
+.peti {
+    color: #A683EC;
+
+}
+
+
+.home {
+    color: #71cfb7
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.padnav {
+    padding-left: 16%;
+}
+
+.btn1 {
+    font-size: medium;
+    padding: 10px 50px;
+    background-color: #71cfb7;
+    border: none;
+}
+
+/* titulli  */
+
+.pjesa2 {
+    font-weight: 600;
+    text-align: left;
+    padding: 30% 0 20% 13%;
+
+
+}
+
+.big-heading {
+
+    font-size: 3.5rem;
+}
+
+.yp {
+    color: #A683EC;
+    font-weight: 700;
+
+}
+
+.foto1 {
+    position: absolute;
+    right: 15%;
+    top: 15%;
+    width: 65%;
+}
+
+.yp {
+    color: #A683EC;
+}
+
+.paragrafi {
+    color: #4A4A4A;
+}
+
+.btn2 {
+    padding: 13px 75px;
+    font-size: medium;
+    background-color: #71cfb7;
+    border: none;
+}
+
+span {
+    color: #71cfb7;
+}
+
+.linku {
+    color: #71cfb7;
+}
+
+.nav-link {
+    font-weight: 600;
+}
+
+/* pjesa posht 1  */
+
+.borderi {
+    padding: 10% 10%;
+}
+
+.feature {
+    text-align: center;
+    height: 135px;
+}
+
+.bord {
+
+    border-radius: 20%;
+    margin: 1% 5%;
+
+}
+
+.fjala {
+    padding-top: 5%;
+    font-size: 1.5rem;
+    line-height: 1;
+}
+
+.smallpic {
+    height: 50%;
+    padding-top: 3%;
+}
+
+/* best services  */
+
+#services {
+    padding: 9% 10% 9% 10%;
+    position: relative;
+
+}
+
+.foto2 {
+    width: 80%;
+}
+
+.bestS {
+    padding-top: 26%;
+    padding-bottom: 2%;
+    font-weight: 600;
+
+}
+
+.parag2 {
+    color: #A683EC;
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+}
+
+.kolona2 {
+    padding-left: 30px;
+
+    position: absolute;
+    right: 90px;
+
+}
+
+/* cards  */
+
+#karta {
+    padding: 7% 7% 7% 7%;
+    background-color: #F3F2F7;
+
+}
+
+.card {
+    height: 500px;
+    width: 350px;
+
+}
+
+.kartel {
+    border-radius: 10%;
+    padding: 2%;
+}
+
+.offer {
+    text-align: center;
+    font-weight: 600;
+
+}
+
+.parag3 {
+    color: #A683EC;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 2% 20% 2%;
+}
+
+.card-pic {
+    width: 90%;
+    padding: 10% 2% 5%;
+}
+
+.card-title {
+    font-weight: 600;
+    color: #A683EC;
+}
+
+.card-text {
+    color: #4A4A4A;
+}
+
+.ti {
+    padding-top: 17%;
+}
+
+.dy {
+    padding-top: 3%;
+}
+
+/* maca  */
+
+#cat {
+    padding: 22px 20px;
+    position: relative;
+}
+
+.mbeshtjellesi {
+    padding-right: 30%;
+    padding-left: 15%;
+    padding-bottom: 7%;
+}
+
+.conti {
+    text-align: center;
+    padding: 3% 5%;
+    border-radius: 30%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+
+}
+
+.mt-0 {
+    font-weight: 600;
+    padding-top: 10%;
+
+}
+
+.numri {
+    color: #A683EC;
+    font-weight: 600;
+
+}
+
+.numri1 {
+    color: #A683EC;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.work {
+    font-weight: 600;
+    padding-bottom: 5%;
+    padding-top: 10%;
+}
+
+.maca {
+    position: absolute;
+    right: 9%;
+    top: 10%;
+    height: 500px;
+}
+
+/* pricing  */
+
+#pricing {
+    padding: 7% 7% 7% 7%;
+    background-color: #F4F2F7
+}
+
+.card {
+    height: 500px;
+    width: 350px;
+
+}
+
+.treshi {
+    font-weight: 600;
+    color: #4A4A4A;
+    font-size: 1.3rem;
+
+}
+
+.green {
+    color: #71cfb7;
+
+}
+
+.first {
+    padding: 12% 12% 0 12%;
+}
+
+.card-body {
+    padding: 3% 12%;
+    position: relative;
+}
+
+.cost {
+    font-size: 2.5rem;
+    padding-right: 2%;
+}
+
+.cheku {
+    padding: 2%;
+    color: #71cfb7;
+}
+
+.b1 {
+    border-color: #71cfb7;
+    color: #71cfb7;
+    border-radius: 3%;
+    font-weight: 600;
+    padding: 13px 55px;
+
+}
+
+.pjesabu {
+    position: absolute;
+    bottom: 11%;
+    left: 20%;
+}
+
+.kartel2 {
+    border-radius: 5%;
+}
+
+.gjelbert {
+    background-color: #71cfb7;
+
+}
+
+.bardh {
+    color: #ffff;
+}
+
+.whitebtn {
+    background-color: #ffff;
+    color: #71cfb7;
+    border-radius: 3%;
+    font-weight: 600;
+    padding: 13px 55px;
+}
+
+/* semi footer  */
+#semifo {
+    padding: 7% 10% 7% 10%;
+}
+
+.nenpjesa {
+    width: 99%;
+    height: 250px;
+    background-color: #85D5C1;
+    text-align: center;
+    position: relative;
+
+}
+
+.join {
+
+    color: #ffff;
+    padding-top: 4%;
+    margin: auto;
+}
+
+.pet {
+
+    font-weight: 600;
+    color: #ffff;
+    margin: auto;
+}
+
+.field {
+    position: relative;
+    padding-top: 22px;
+}
+
+.imella {
+    width: 450px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    padding-left: 15px;
+    color: #4A4A4A;
+
+}
+
+.get {
+    position: absolute;
+    right: 5px;
+    top: 27px;
+    background-color: #85D5C1;
+    border: none;
+    border-radius: 3px;
+    width: 180px;
+    height: 40px;
+    color: #ffff;
+    font-weight: 600;
+}
+
+.pawd {
+    position: absolute;
+    right: 20%;
+    top: 8%;
+}
+
+.pawm {
+    position: absolute;
+    left: 20%;
+    top: 8%;
+}
+
+/* footeri  */
+
+
+#footer {
+    padding: 3% 4% 3% 4%;
+
+}
+
+.cu {
+    padding-right: 3%;
+    padding-left: 4%;
+}
+
+.leg {
+    padding-left: 7%;
+    padding-right: 2%;
+}
+
+.text-up {
+    padding-top: 9px;
+    font-weight: 600;
+}
+
+.learn {
+    padding-left: 4%;
+}
+
+hr {
+    background-color: #71cfb7;
+    height: 1px;
+    border: 1px 0 0 0;
+    width: 100%;
+    margin: 0;
+}
+
+.logoja {
+    padding-top: 1px;
+    padding-left: 2%;
+
+}
+
+.soc {
+    padding-left: 5%;
+}
+
+.fas {
+    padding: 0 3%;
+}
