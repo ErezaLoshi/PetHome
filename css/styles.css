@@ -44,6 +44,14 @@ body {
     border: none;
 }
 
+.btn1:hover {
+    background-color: #A683EC;
+}
+
+.btn2:hover {
+    background-color: #A683EC;
+}
+
 /* titulli  */
 
 .pjesa2 {
@@ -319,6 +327,11 @@ span {
     font-weight: 600;
     padding: 13px 55px;
 
+}
+
+.b1:hover {
+    color: #ffff;
+    background-color: #71cfb7;
 }
 
 .pjesabu {
